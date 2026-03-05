@@ -1,0 +1,24 @@
+h1{
+    color: rgb(8, 8, 12);
+}
+h2{
+    color: red;
+}
+p{
+    color: darkgray;
+}
+.second h1{
+    background-color: rgb(232, 232, 152);
+}
+.second h2{
+    background-color: rgb(15, 54, 54);
+    color: whitesmoke;
+}
+.second h3{
+    text-align: center;
+}
+.second p{
+    background-color: rgb(220, 142, 142);
+    color: blue;
+    text-align: center;
+}
